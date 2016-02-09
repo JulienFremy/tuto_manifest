@@ -1,7 +1,8 @@
 <manifest>
   <remote name="origin" url="https://github.com/JulienFremy/" />
 
-  <repo project="libfoo.git" remotes="origin" src="lib/libfoo" />
-  <repo project="libbar.git" remotes="origin" src="lib/libbar" />
-  <repo project="awesomeapp.git" remotes="origin" src="gui/awesomeapp" />
+  <repo project="libfoo.git" remotes="origin" src="lib/libfoo" branch="build_cpp" />
+  <repo project="libbar.git" remotes="origin" src="lib/libbar" branch="build_cpp" />
+  <repo project="awesomeapp.git" remotes="origin" src="gui/awesomeapp" branch="build_cpp" />
+
 </manifest>
