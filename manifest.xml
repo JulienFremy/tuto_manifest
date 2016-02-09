@@ -2,6 +2,6 @@
   <remote name="origin" url="https://https://github.com/JulienFremy/" />
 
   <repo project="libfoo.git" remotes="origin" src="lib/libfoo" />
-  <repo project="libbar.git" remotes="origin" src="lib/libfoo" />
-  <repo project="myawesomeapp.git" remotes="origin" src="lib/libfoo" />
+  <repo project="libbar.git" remotes="origin" src="lib/libbar" />
+  <repo project="myawesomeapp.git" remotes="origin" src="gui/myawesomeapp" />
 </manifest>
